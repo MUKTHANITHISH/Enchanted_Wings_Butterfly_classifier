@@ -31,7 +31,7 @@ This project combines beautiful imagery with useful scientific information to pr
 
 ## 🔗 Project Repository
 
-👉 **GitHub:** [Enchanted Wings on GitHub](https://github.com/LeenaSri29/Enchanted_Wings_Butterfly_classifier)
+👉 **GitHub:** [Enchanted Wings on GitHub](https://github.com/MUKTHANITHISH/Enchanted_Wings_Butterfly_classifier)
 
 ---
 
@@ -145,7 +145,7 @@ butterfly-classification/backend
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/LeenaSri29/Enchanted_Wings_Butterfly_classifier
+git clone https://github.com/MUKTHANITHISH/Enchanted_Wings_Butterfly_classifier
 cd Enchanted_Wings_Butterfly_classifier
 ```
 
